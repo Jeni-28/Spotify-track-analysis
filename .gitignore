@@ -1,0 +1,5 @@
+.venv/
+*.pyc
+__pycache__/
+spotify_track_data.csv
+track_popularity_chart.png
